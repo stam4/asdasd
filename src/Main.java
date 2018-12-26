@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello World!");
 
         System.out.println("Tra la la");
+
+        System.out.println("Yoohoo");
     }
 }

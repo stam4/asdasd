@@ -4,5 +4,8 @@
 public class BBB3 {
     public static void main(String[] args) {
         System.out.println("from branch new2");
+
+        System.out.println("Changes");
+
     }
 }

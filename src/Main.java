@@ -12,7 +12,12 @@ public class Main {
         System.out.println("change by Roman in Idea");
 
         System.out.println("change by Roman in github");
+
         System.out.println("master1");
         System.out.println("m2");
+
+        System.out.println("1");
+        System.out.println("2");
+
     }
 }

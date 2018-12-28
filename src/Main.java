@@ -21,6 +21,6 @@ public class Main {
         System.out.println("3");
         System.out.println("r1");
         System.out.println("r2");
-
+        System.out.println("r3");
     }
 }

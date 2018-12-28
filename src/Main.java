@@ -12,6 +12,6 @@ public class Main {
         System.out.println("r2");
         System.out.println("r3");
 
-
+        System.out.println("fucking shit");
     }
 }
